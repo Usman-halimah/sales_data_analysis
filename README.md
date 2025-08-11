@@ -15,7 +15,7 @@ The analysis was done in Microsoft Excel, with results summarized for easy inter
 - **Charts** – For visual representation.
 
 ## File Description
-- `Sales_Analysis.xlsx` – Contains raw data, cleaned data, and all analysis sheets.
+- `Sales Data Analysis.xlsx` – Contains raw data, cleaned data, and all analysis sheets.
 
 ## Author
 Halimah Usman
